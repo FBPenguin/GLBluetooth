@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GLBluetooth</string>
+
+    <string name="in_calling">正在呼叫...</string>
+    <string name="is_talking">正在通话:</string>
+</resources>
